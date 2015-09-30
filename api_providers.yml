@@ -1,0 +1,6 @@
+- name: "Janaki Technology" # your organization or startup name
+  apis:
+  - name: "Sparrow SMS" # your api name
+    url: "https://api.sparrowsms.com/" # your api url
+  - name: "Picovico"
+    url: "https://api.picovico.com/"

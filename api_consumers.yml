@@ -1,0 +1,3 @@
+- name: "Your name" # your full name
+  url: "http://yourwebsite.com" # url of your web app
+  api: "https://api.picovico.com/" # url of api you are consuming
